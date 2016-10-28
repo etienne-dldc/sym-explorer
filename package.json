@@ -1,0 +1,24 @@
+{
+  "name": "sym-explorer",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "url": "git+ssh://git@github.com/etienne-dldc/sym-explorer.git",
+    "type": "git"
+  },
+  "author": "Etienne Dldc <etienne.dldc@outlook.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-jetpack": "^0.10.0",
+    "lodash": "^4.16.4"
+  },
+  "description": "A tool to explore my folders like a database",
+  "bugs": {
+    "url": "https://github.com/etienne-dldc/sym-explorer/issues"
+  },
+  "homepage": "https://github.com/etienne-dldc/sym-explorer#readme",
+  "devDependencies": {}
+}
