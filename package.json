@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "fs-jetpack": "^0.10.0",
-    "lodash": "^4.16.4"
+    "lodash": "^4.17.19"
   },
   "description": "A tool to explore my folders like a database",
   "bugs": {
